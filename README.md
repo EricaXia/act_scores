@@ -1,6 +1,6 @@
 # ACT Scores
 ### Analysis of ACT scores from California high schools
-<br>
+
 ![act](act.jpg)
 <br>
 
