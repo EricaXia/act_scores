@@ -1,4 +1,5 @@
 # ACT Scores
+![act](act.jpg)
 Analysis of ACT scores from California high schools
 
 - EDA (Data visualization, relationship analysis)
