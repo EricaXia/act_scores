@@ -3,6 +3,7 @@
 
 ![act](act.jpg)
 <br>
+<br>
 What factors affect students' success on standardized test scores? What relationship do ACT scores have with poverty rates, graduation rates, dropout rates, and more? Can schoolwide performance be predicted based on these factors, and how could we improve student scores in the future?
 <br>
 <br>
