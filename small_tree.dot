@@ -1,0 +1,43 @@
+digraph Tree {
+node [shape=box, style="rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="Percent (%) 
+Eligible FRPM 
+(Ages 5-17) <= 0.6\nmse = 11.7\nsamples = 384\nvalue = 21.7"] ;
+1 [label="Percent (%) 
+Eligible FRPM 
+(K-12) <= 0.3\nmse = 6.1\nsamples = 212\nvalue = 24.0"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Percent (%) 
+Eligible FRPM 
+(Ages 5-17) <= 0.2\nmse = 3.7\nsamples = 72\nvalue = 26.2"] ;
+1 -> 2 ;
+3 [label="mse = 2.6\nsamples = 26\nvalue = 27.9"] ;
+2 -> 3 ;
+4 [label="mse = 2.3\nsamples = 46\nvalue = 25.4"] ;
+2 -> 4 ;
+5 [label="Percent (%) 
+Eligible FRPM 
+(Ages 5-17) <= 0.4\nmse = 3.7\nsamples = 140\nvalue = 22.9"] ;
+1 -> 5 ;
+6 [label="mse = 2.2\nsamples = 56\nvalue = 23.7"] ;
+5 -> 6 ;
+7 [label="mse = 4.0\nsamples = 84\nvalue = 22.3"] ;
+5 -> 7 ;
+8 [label="Percent (%) 
+Eligible FRPM 
+(Ages 5-17) <= 0.8\nmse = 4.1\nsamples = 172\nvalue = 18.8"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="enroll12 <= 197.5\nmse = 3.6\nsamples = 88\nvalue = 19.7"] ;
+8 -> 9 ;
+10 [label="mse = 4.9\nsamples = 23\nvalue = 18.4"] ;
+9 -> 10 ;
+11 [label="mse = 2.4\nsamples = 65\nvalue = 20.2"] ;
+9 -> 11 ;
+12 [label="enroll12 <= 126.5\nmse = 2.2\nsamples = 84\nvalue = 17.7"] ;
+8 -> 12 ;
+13 [label="mse = 1.1\nsamples = 10\nvalue = 15.7"] ;
+12 -> 13 ;
+14 [label="mse = 1.8\nsamples = 74\nvalue = 17.9"] ;
+12 -> 14 ;
+}
