@@ -29,6 +29,8 @@ Preview of Results:
 
 <br>
 
+---
+
 ##### Conclusion:
 <br>
 Student test scores are the complex result of many environmental and individual factors: achievement levels (high-achieving students in schools with rigorous and stimulating curriculums likely to score higher), cultural / racial / ethnic background, socioeconomic status (thus higher poverty rates would be negatively correlated with lower scores), and psychological state (student motivation, focus, ability to handle pressure, time management, etc). Improving student scores would come down to investigating each of these elements in further detail. For instance, improving school curriculum and fostering healthy educational environment for students could positively influence scores. 
