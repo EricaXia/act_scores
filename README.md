@@ -24,3 +24,6 @@ Preview of Results:
 <br>
 ### Random Forest Preview
 ![](small_tree.png)
+
+<br>
+##### Results from the Random Forest Regressor showed we can predict schools' average ACT score with about 94% accuracy!
