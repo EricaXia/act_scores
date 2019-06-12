@@ -26,3 +26,5 @@ Preview of Results:
 ![](small_tree.png)
 
 ##### Results from the Random Forest Regressor showed we can predict schools' average ACT score with about 94% accuracy!
+
+Student test scores are the complex result of many environmental and individual factors: achievement levels (high-achieving students in schools with rigorous and stimulating curriculums likely to score higher), cultural / racial / ethnic background, socioeconomic status (thus higher poverty rates would be negatively correlated with lower scores), and psychological state (student motivation, focus, ability to handle pressure, time management, etc).
